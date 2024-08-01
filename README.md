@@ -69,7 +69,7 @@
             1.  With Edit and Delete icons
     4.  Develop similar interfaces (Frames) for
         1.  Manage plots
-        2.  Manage plantations        3.  
+        2.  Manage plantations
 
 # Evaluation criteria for quality of code
 1. Creation of repositories
