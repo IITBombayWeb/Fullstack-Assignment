@@ -70,6 +70,16 @@
     4.  Develop similar interfaces (Frames) for
         1.  Manage plots
         2.  Manage plantations
+        3.  
+
+# Evaluation criteria for quality of code
+1. Creation of repositories
+2. At least four major issue (branches) in each repository
+3. Each pull request must have at least about four commits, with meaningful commit messages
+4. Code should follow standard best practices for naming, formatting, and inline documentation
+5. Number of APIs implemented and equivalent Frontends
+6. API implementation must be complete as specified in the problem statement
+7. Frontend must be elegant and responsive
 
 
 
